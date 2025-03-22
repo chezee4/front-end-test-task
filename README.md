@@ -2,10 +2,12 @@
 
 ## Setup
 
+The keys that are in the .env.example file need to be transferred to .env 
+
 ```bash
 npm install
 npm run dev
-```
+```  
 
 ## Tech Stack
 
